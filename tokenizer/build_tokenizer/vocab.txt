@@ -268,9 +268,7 @@ F)
 S)
 (S)
 C)
-O)
 (O)
-CS
 CCS
 CCCS
 CCSC
@@ -280,7 +278,6 @@ cccn
 CSC
 =C
 CCO
-(C
 (O
 (=N
 C(=N
@@ -313,7 +310,6 @@ CSSC
 I)
 (I)
 CNO
-(C)
 N(C)
 N(C)C
 C(N)N
@@ -352,7 +348,6 @@ C(I)
 cnn
 cc(N)
 NC(N)
-OC
 OC)
 (OC)
 c(OC)
@@ -403,6 +398,7 @@ C(C)N
 CCO)
 (CCO)
 CN=C
+n(C)
 n(C)c
 c(CO)
 #Cc

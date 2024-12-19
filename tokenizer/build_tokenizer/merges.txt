@@ -185,6 +185,7 @@ C(C) N
 CCO )
 ( CCO)
 CN =C
+n (C)
 n(C) c
 c (CO)
 #C c
